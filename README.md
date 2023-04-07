@@ -41,3 +41,9 @@ Another step of the plan would eventually be to place smaller IoT (Internet of T
 - IBM Cloud Functions: Implementation of microservices for data gathering and notifications.
 - IBM Cloud Object Storage: Mass storage of current and historical data in a data lake.
 - IBM IoT Platform: To configure and collect data from Internet of Things devices.
+
+### Solution Architecture
+
+1. IoT devices on farms transfer relevant data to IBM IoT which stores them in Cloud Object Storage
+2. Watson Discovery uses data to generate important insights.
+3. Insights are broadcast using IBM Text to Speech to build speeches broadcast over a PSA.
