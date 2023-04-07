@@ -8,6 +8,9 @@
   - [IBM AI service(s) used](#ibm-ai-services-used)
   - [Other IBM technology used](#other-ibm-technology-used)
   - [Solution architecture](#solution-architecture)
+- [Presentation materials](#presentation-materials)
+  - [Solution demo video](#solution-demo-video)
+  - [Project development roadmap](#project-develop)
 
 ## Project summary
 
@@ -49,3 +52,11 @@ Another step of the plan would eventually be to place smaller IoT (Internet of T
 3. Insights are broadcast using IBM Text to Speech to build speeches broadcast over a PSA.
 
 ![Architecture](./architecture.png)
+
+## Presentation materials
+
+### Solution demo video
+
+### Project development roadmap
+
+![Roadmap](./roadmap.png)
