@@ -57,6 +57,8 @@ Another step of the plan would eventually be to place smaller IoT (Internet of T
 
 ### Solution demo video
 
+![Video](https://youtu.be/AElkiLRbXfw)
+
 ### Project development roadmap
 
 ![Roadmap](./roadmap.png)
